@@ -1,0 +1,7 @@
+# Customer Behavior Analysis Insights
+
+1. The best performing month is month 6 with $41301.41 in sales.
+2. The worst performing month is month 11 with $35603.30 in sales.
+3. Thursday is the day with highest purchase activity.
+4. Customer segment 0 represents high-value customers with average CLV of $1516.44.
+5. The 46-55 age group has the highest customer lifetime value at $1239.06.
